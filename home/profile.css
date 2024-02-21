@@ -1,0 +1,102 @@
+.head {
+    border: 1px solid gray;
+    padding: 2px;
+    width: 800px;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.body {
+    border: 1px solid gray;
+    padding: 2px;
+    width: 800px;
+    background-color: lightgray;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.buttons {
+    border: 1px dotted rgb(142, 62, 62);
+    padding: 3px;
+    width: 800px;
+    background-color: rgba(225, 195, 195, 0.834);
+    margin-bottom: 10px;
+    text-align: center;
+    box-shadow: 0px 3px 8px gray;
+    border-radius: 5px;
+}
+.header {
+    border: 1px solid rgb(76, 73, 73);
+    padding: 2px;
+    width: 800px;
+    background-color: rgb(226, 217, 217);
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 3px 8px gray;
+}
+.color {
+    background-color: rgb(166, 166, 76);
+    border: none;
+    width: 130px;
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    border-radius: 5px;
+}
+.color:hover {
+    background-color: yellowgreen;
+}
+.place {
+    background-color: rgb(166, 166, 76);
+    border: none;
+    width: 130px;
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    border-radius: 5px;
+}
+.place:hover {
+    background-color: yellowgreen;
+}
+.ritual {
+    background-color: rgb(166, 166, 76);
+    border: none;
+    width: 130px;
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    border-radius: 5px;
+}
+.ritual:hover {
+    background-color: yellowgreen;
+}
+.family {
+    background-color: rgb(166, 166, 76);
+    border: none;
+    width: 130px;
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    border-radius: 5px;
+}
+.family:hover {
+    background-color: yellowgreen;
+}
+.gaming {
+    background-color: rgb(166, 166, 76);
+    border: none;
+    width: 130px;
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    border-radius: 5px;
+}
+.gaming:hover {
+    background-color: yellowgreen;
+}
